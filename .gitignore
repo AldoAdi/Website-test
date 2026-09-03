@@ -1,0 +1,5 @@
+node_modules
+*.local
+.DS_Store
+npm-debug.log*
+# docs/ is the build output and IS committed — GitHub Pages serves it from main.
